@@ -7,3 +7,8 @@ export function add(a, b) {
 export function mul(a, b) {
   return a * b
 }
+
+/** Subtract b from a. */
+export function sub(a, b) {
+  return a - b
+}
